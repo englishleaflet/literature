@@ -1,2 +1,2 @@
 # literature
-Information about literary devices. [Learn more](https://englishleaflet.com/)https://englishleaflet.com/
+Information about literary devices. <a href="https://englishleaflet.com/">Learn more</a>
